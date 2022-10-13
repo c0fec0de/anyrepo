@@ -1,7 +1,0 @@
-Usage: git-ws manifest create [OPTIONS]
-
-  Create Manifest.
-
-Options:
-  -M, --manifest FILE  Manifest file. 'git-ws.toml' by default.
-  -h, --help           Show this message and exit.
